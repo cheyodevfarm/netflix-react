@@ -1,0 +1,21 @@
+.cards-movie {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 25px 0;
+  gap: 35px;
+}
+
+.cards-movie img {
+  width: 100%;
+}
+.cards-movie h3 {
+  margin: 5px 0;
+}
+.cards-bg {
+  background: #1b1b1b;
+  height: 100%;
+}
+.cards-content {
+  display: block;
+  padding: 10px;
+}
