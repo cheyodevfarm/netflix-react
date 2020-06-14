@@ -19,6 +19,7 @@
     "@fortawesome/react-fontawesome": "^0.1.10",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.3",
+    "dotenv-webpack": "^1.8.0",
     "html-webpack-plugin": "^4.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

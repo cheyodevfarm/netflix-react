@@ -2,8 +2,8 @@
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
-  margin-top: 20px;
   background: #1b1b1b;
+  padding: 20px;
   border-radius: 3px;
 }
 .content ul {

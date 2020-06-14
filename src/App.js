@@ -9,9 +9,9 @@ import Brand from "./components/search/brand";
 const App = () => {
   return (
     <>
+      <Brand />
+      <hr></hr>
       <main className="container">
-        <Brand />
-        <hr></hr>
         <List />
       </main>
     </>

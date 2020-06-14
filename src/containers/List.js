@@ -5,7 +5,7 @@ import "../components/styles/card.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 
-const API = "http://www.omdbapi.com/?i=tt3896198&apikey=ed0d78b8";
+const API = process.env.API;
 class List extends React.Component {
   constructor() {
     super();

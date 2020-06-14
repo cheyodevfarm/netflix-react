@@ -4,7 +4,7 @@ const brand = () => {
   return (
     <div className="content">
       <img
-        src="https://fontmeme.com/permalink/200614/62758b6e5b5114f079b9d8491c11d437.png"
+        src="https://fontmeme.com/permalink/200614/92029f7408459b5a245f4fb33d2f13fc.png"
         alt="Inicio"
       />
       <ul>
